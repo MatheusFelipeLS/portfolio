@@ -12,6 +12,14 @@ projects = [
         "prod": "https://github.com/MatheusFelipeLS/UG0",
     },
     {
+        "name": "APHID: Aplicação de prensa hidráulica",
+        "thumb": "img/aphid/aphid-thumb.png",
+        "hero": "img/aphid/aphid-inicio.png",
+        "categories": ["python"],
+        "slug": "APHID",
+        "prod": "https://github.com/MatheusFelipeLS/Aplicativo-Prensa-Hidraulica",
+    },
+    {
         "name": "Jogo de memorização com cores",
         "thumb": "img/luzes/luzes-thumb.png",
         "hero": "img/luzes/luzes_gameplay.png",
