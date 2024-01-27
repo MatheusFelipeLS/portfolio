@@ -6,10 +6,26 @@ projects = [
     {
         "name": "Robô que escreve com uso de Visão computacional",
         "thumb": "img/ugo/ugo_logo.png",
-        "hero": "img/ugo/ugo2_resized.jpeg",
+        "hero": "img/ugo/ugo2.jpeg",
         "categories": ["C++", "Arduino"],
         "slug": "UG0",
         "prod": "https://github.com/MatheusFelipeLS/UG0",
+    },
+    {
+        "name": "Jogo de memorização com cores",
+        "thumb": "img/luzes/luzes-thumb.png",
+        "hero": "img/luzes/luzes_gameplay.png",
+        "categories": ["Python"],
+        "slug": "luzes",
+        "prod": "https://github.com/MatheusFelipeLS/Jogo-de-memorizacao-de-cores",
+    },
+    {
+        "name": "Habit tracking app with Python and MongoDB",
+        "thumb": "img/habit-tracking.png",
+        "hero": "img/habit-tracking-hero.png",
+        "categories": ["python", "web"],
+        "slug": "habit-tracking",
+        "prod": "https://udemy.com",
     },
     {
         "name": "Personal finance tracking app with React",
