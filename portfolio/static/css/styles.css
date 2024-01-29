@@ -240,6 +240,16 @@ body {
     text-decoration: underline;
 }
 
+.link__about {
+    text-decoration: none;
+    color: black;
+}
+
+.link__about:hover {
+    text-decoration: underline;
+    color: blue;
+}
+
 .u-bare-link {
     text-decoration: none;
 }
